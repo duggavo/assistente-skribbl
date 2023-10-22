@@ -45,7 +45,7 @@
 		},
 		p = async() => {
 			try {
-				t = await fetch("https://raw.githubusercontent.com/duggavo/assistente-skribblr/master/words-it.txt").then(e => e.text())
+				t = await fetch("https://raw.githubusercontent.com/duggavo/assistente-skribbl/master/words-it.txt").then(e => e.text())
 			} catch (e) {
 				return console.error(e), await new Promise(e => setTimeout(e, 5e3)), p()
 			}
