@@ -1,16 +1,19 @@
 abaco
 abito
 accendino
+account
 acquario
 acrobata
 aereo di carta
 afoso
+ala
 albero
 albume
 allarme
 allegro
 altalena
 amaca
+amante
 anello
 aneto
 anguilla
@@ -20,7 +23,9 @@ antivirus
 anubis
 applauso
 arancia
+armadio
 ascella
+assassino
 asteroide
 atomo
 auricolari
@@ -32,6 +37,7 @@ ballerina
 barattolo
 barba
 barbie
+barriera corallina
 bastone
 batti cinque
 beatbox
@@ -41,13 +47,17 @@ biancaneve
 bicchiere da vino
 bicchierino
 bidone
+bilancia
 bill gates
 bingo
+bob
+bolla
 borraccia
 borsetta
 bottone
 bowling
 braccialetto
+braille
 brasile
 brocca
 buco
@@ -56,6 +66,7 @@ cabina telefonica
 cacca
 cactus
 caffetteria
+calamaro
 cameraman
 camion
 canna da pesca
@@ -65,8 +76,10 @@ capelli
 cappello a cilindro
 cappuccino
 carpentiere
+carrello
 carriola
 casa
+cassetta postale
 cassetto
 catalogo
 catena
@@ -88,11 +101,14 @@ cimice
 cioccolato
 clessidra
 cobra
+coccinella
+cocco
 cocktail
 cola
 colibrì
 colla
 colombia
+colosseo
 commerciale
 completo
 computer
@@ -109,6 +125,7 @@ croce
 cronometro
 crostata
 cucchiaio
+culla
 cuoco
 cuore
 danimarca
@@ -117,6 +134,7 @@ decorare
 dentro
 detergente
 diagonale
+diamante
 diapason
 didgeridoo
 digitare
@@ -131,11 +149,14 @@ edificio
 elmo
 eminem
 euro
+facciata
+falce
 falena
 fango
 fanta
 felpa
 fenice
+fenicottero
 ferita
 ferro da stiro
 ferro di cavallo
@@ -145,7 +166,9 @@ finn
 firma
 fischietto
 folletto
+forbici
 foresta
+fortuna
 francia
 francobollo
 freccia
@@ -162,6 +185,7 @@ gambe
 gandhi
 gara
 gel
+genio
 geografia
 ghiaccio
 giaguaro
@@ -172,6 +196,7 @@ giraffa
 girandola
 goccia
 goleador
+gomito
 gomma
 google
 graffetta
@@ -194,11 +219,14 @@ incinta
 incognito
 indonesia
 inghilterra
+insalata
 iphone
 ippopotamo
+iron man
 jeep
 jenga
 john cena
+katana
 katy perry
 kebab
 ketchup
@@ -210,9 +238,11 @@ leccare
 leggero
 lente d'ingrandimento
 lento
+leone
 libellula
 limonata
 linea
+lingua
 link
 livido
 londra
@@ -234,6 +264,7 @@ martedì
 martellare
 martello
 martello pneumatico
+materasso
 matita
 matrimonio
 mela
@@ -244,6 +275,7 @@ michael jackson
 minecraft
 minestra
 miniclip
+minion
 minotauro
 mocio
 mohawk
@@ -252,12 +284,15 @@ monopattino
 monster
 mosca
 mostarda
+motore
 mozart
 mtv
+muro
 mutande
 nacchere
 natale
 nave
+negozio
 nike
 nocche
 nocciola
@@ -275,6 +310,7 @@ osservatorio
 paese
 palazzo
 palloncino
+palma
 palo
 pancake
 panda
@@ -282,7 +318,9 @@ pantera
 parata
 parigi
 passeggino
+pausa
 peli del petto
+penna
 pentola
 pepe
 pepsi
@@ -310,6 +348,7 @@ puma
 punizione
 pupazzo di neve
 puzza
+puzzle
 racchetta da tennis
 radar
 radice
@@ -320,6 +359,7 @@ registrare
 renna
 rete da pesca
 riccioli d'oro
+ristorante
 ritratto
 romania
 rosa
@@ -332,9 +372,11 @@ salmone
 salute
 salvadanaio
 sbattere
+scassinatore
 scavo
 scheletro
 scienziato
+scimmia
 scintilla
 scopa
 scorpione
@@ -343,6 +385,8 @@ scrittore
 scultura
 scuola
 sedia
+serratura
+sfera di cristallo
 shampoo
 sinfonia
 smoking
@@ -358,6 +402,7 @@ spazzatura
 spia
 spinaci
 spirale
+spongebob
 stagione
 starnuto
 stella cadente
@@ -373,6 +418,7 @@ sushi
 sussurro
 svapare
 sventolare
+svezia
 tails
 tappetino
 tappeto rosso
@@ -388,6 +434,7 @@ terra
 terrario
 testa
 thor
+tigre
 tiro alla fune
 toga
 topolino
@@ -395,6 +442,7 @@ tornado
 torre di pisa
 traffico
 trappola per orsi
+trappola per topi
 treppiedi
 tricheco
 triciclo
