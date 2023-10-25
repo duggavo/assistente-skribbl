@@ -4,6 +4,7 @@ accendino
 account
 acquario
 acrobata
+adidas
 aereo di carta
 afoso
 ala
@@ -14,6 +15,7 @@ allegro
 altalena
 amaca
 amante
+ambulanza
 anello
 aneto
 anguilla
@@ -22,7 +24,9 @@ antico
 antivirus
 anubis
 applauso
+apple
 arancia
+arbitro
 armadio
 ascella
 assassino
@@ -34,13 +38,18 @@ avanti veloce
 baffi
 baguette
 ballerina
+bandiera
 barattolo
 barba
 barbie
 barriera corallina
+bart simpson
+basilico
+bassotto
 bastone
 batti cinque
 beatbox
+bebè
 befana
 betulla
 biancaneve
@@ -50,8 +59,10 @@ bidone
 bilancia
 bill gates
 bingo
+blocco notes
 bob
 bolla
+bomba atomica
 borraccia
 borsetta
 bottone
@@ -60,8 +71,10 @@ braccialetto
 braille
 brasile
 brocca
+bruce lee
 buco
 buffet
+bustina del tè
 cabina telefonica
 cacca
 cactus
@@ -70,15 +83,18 @@ calamaro
 cameraman
 camion
 canna da pesca
+cannuccia
 canoa
 canyon
 capelli
 cappello a cilindro
 cappuccino
+capra
 carpentiere
 carrello
 carriola
 casa
+casino
 cassetta postale
 cassetto
 catalogo
@@ -86,9 +102,11 @@ catena
 catena d'oro
 cattedrale
 cavalletta
+cavallo
 cavolo
 cemento
 cenere
+cerchio
 cerotto
 cheerleader
 cheesecake
@@ -96,10 +114,13 @@ chiodo
 chitarra
 chitarra elettrica
 chrome
+cibo per cani
 ciclista
 cimice
+cina
 cioccolato
 clessidra
+click
 cobra
 coccinella
 cocco
@@ -107,6 +128,7 @@ cocktail
 cola
 colibrì
 colla
+collo
 colombia
 colosseo
 commerciale
@@ -137,15 +159,20 @@ diagonale
 diamante
 diapason
 didgeridoo
+difendere
 digitare
 dipendenza
+dita dei piedi
 dito
+divorzio
 dizionario
 dolore
 domenica
+dora
 drift
 echidna
 edificio
+elefante
 elmo
 eminem
 euro
@@ -160,6 +187,7 @@ fenicottero
 ferita
 ferro da stiro
 ferro di cavallo
+fessura
 festa
 fine
 finn
@@ -169,6 +197,7 @@ folletto
 forbici
 foresta
 fortuna
+fragola
 francia
 francobollo
 freccia
@@ -182,14 +211,19 @@ fumo
 gabbia per uccelli
 gallo
 gambe
+gamberetto
 gandhi
 gara
 gel
+gelatina
 genio
 geografia
 ghiaccio
+ghigliottina
+ghirlanda
 giaguaro
 gigante
+gioiello
 giornale
 giovedì
 giraffa
@@ -201,6 +235,7 @@ gomma
 google
 graffetta
 graffiti
+grammofono
 granchio
 griglia
 grilletto
@@ -217,9 +252,11 @@ hot dog
 il paese delle meraviglie
 incinta
 incognito
+india
 indonesia
 inghilterra
 insalata
+invasione
 iphone
 ippopotamo
 iron man
@@ -252,14 +289,19 @@ luce stradale
 luna piena
 lunedì
 macchina da cucito
+macchina da scrivere
 macellaio
 madagascar
 maestro
+magnete
+mago
 maionese
+mal di testa
 mandarino
 mandorla
 mantide
 marocco
+marte
 martedì
 martellare
 martello
@@ -267,11 +309,13 @@ martello pneumatico
 materasso
 matita
 matrimonio
+mazza
 mela
 mensola
 mercedes
 mercoledì
 michael jackson
+microonde
 minecraft
 minestra
 miniclip
@@ -280,6 +324,7 @@ minotauro
 mocio
 mohawk
 molla
+mongolfiera
 monopattino
 monster
 mosca
@@ -293,6 +338,7 @@ nacchere
 natale
 nave
 negozio
+nero
 nike
 nocche
 nocciola
@@ -300,6 +346,7 @@ noce
 notre dame
 obbiettivo
 occhiali
+olio
 oliva
 orecchio
 ornitorinco
@@ -307,8 +354,12 @@ orologio
 orologio da polso
 orso polare
 osservatorio
+ovale
 paese
+pagliaccio
+pakistan
 palazzo
+paletta
 palloncino
 palma
 palo
@@ -318,12 +369,16 @@ pantera
 parata
 parigi
 passeggino
+pasta sfoglia
+patente
 pausa
 peli del petto
 penna
 pentola
 pepe
+peppa pig
 pepsi
+pesce
 petalo
 pianeta
 pianta
@@ -339,6 +394,7 @@ porcospino
 porta
 pozzo
 presa
+prete
 prigione
 prigioniero
 proiettore
@@ -366,12 +422,14 @@ rosa
 rosso
 rubino
 ruota panoramica
+russia
 sabato
 sacco
 salmone
 salute
 salvadanaio
 sbattere
+scaricare
 scassinatore
 scavo
 scheletro
@@ -384,6 +442,7 @@ scozia
 scrittore
 scultura
 scuola
+scuotere
 sedia
 serratura
 sfera di cristallo
@@ -412,6 +471,7 @@ stregone
 stretta di mano
 studio
 stuzzicadenti
+sughero
 suora
 surf
 sushi
@@ -427,6 +487,7 @@ tavolo
 tazza
 teleferica
 tempo
+tenda
 tennis
 teppista
 terminator
@@ -439,6 +500,7 @@ tiro alla fune
 toga
 topolino
 tornado
+torre
 torre di pisa
 traffico
 trappola per orsi
@@ -450,6 +512,7 @@ trincea
 trio
 triste
 trofeo
+tromba d'aria
 trucco di magia
 tsunami
 tuorlo
@@ -459,6 +522,7 @@ ululato
 uovo d'oro
 uva
 valigetta
+valle
 vaso
 venerdì
 vento
@@ -467,7 +531,11 @@ vetro
 viola
 virus
 volto
+vulcano
+wafer
 wall-e
+yin e yang
+yoda
 zaffiro
 zaino
 zanna
