@@ -7,41 +7,69 @@ acrobata
 adidas
 aereo di carta
 afoso
+agente
+agrumi
 ala
 albero
 albume
+aliante
 allarme
 allegro
+allenamento
 altalena
 amaca
 amante
 ambulanza
+ammiccare
+andarsene
+android
 anello
 aneto
+angry birds
 anguilla
 anguria
+annaffiatoio
+antartide
 antico
 antivirus
 anubis
+ape
 applauso
 apple
+apriscatole
 arancia
 arbitro
+aria
+armadietto
 armadio
 ascella
+asciugacapelli
+asfalto
+asino
 assassino
 asteroide
 atomo
+aula
 auricolari
 auto elettrica
+autografo
+autolavaggio
 avanti veloce
+azione
+babbo natale
 baffi
+bagno
 baguette
+balcone
 ballerina
+banana
+banco
 bandiera
 barattolo
 barba
+barbecue
 barbie
+barra
 barriera corallina
 bart simpson
 basilico
@@ -53,13 +81,16 @@ bebè
 befana
 betulla
 biancaneve
+bicchiere
 bicchiere da vino
 bicchierino
 bidone
 bilancia
 bill gates
 bingo
+bitcoin
 blocco notes
+blu
 bob
 bolla
 bomba atomica
@@ -80,9 +111,14 @@ cacca
 cactus
 caffetteria
 calamaro
+calzini
+camaleonte
 cameraman
 camion
+camioncino dei gelati
+canile
 canna da pesca
+canne
 cannuccia
 canoa
 canyon
@@ -94,6 +130,9 @@ carpentiere
 carrello
 carriola
 casa
+casa bianca
+casa infestata
+caserma dei pompieri
 casino
 cassetta postale
 cassetto
@@ -103,41 +142,55 @@ catena d'oro
 cattedrale
 cavalletta
 cavallo
+cavo
 cavolo
 cemento
 cenere
 cerchio
+ceretta
 cerotto
 cheerleader
 cheesecake
+chiave
+chinatown
 chiodo
 chitarra
 chitarra elettrica
 chrome
 cibo per cani
+cicatrice
 ciclista
 cimice
 cina
 cioccolato
+circonferenza
 clessidra
 click
 cobra
 coccinella
 cocco
+coccodrillo
 cocktail
+coda
 cola
 colibrì
 colla
 collo
 colombia
+colonna
 colosseo
+coltello
 commerciale
+compleanno
 completo
 computer
 controller
 coperchio
 coperta
 corna
+corno
+corpo
+corsia
 cotone
 cravatta
 creeper
@@ -146,13 +199,20 @@ croazia
 croce
 cronometro
 crostata
+cubo di rubik
 cucchiaio
+cucina
 culla
 cuoco
 cuore
 danimarca
 decaffeinato
 decorare
+delfino
+demone
+dente di leone
+dentifricio
+dentista
 dentro
 detergente
 diagonale
@@ -169,18 +229,31 @@ dizionario
 dolore
 domenica
 dora
+dottore
 drift
+duro
 echidna
 edificio
+elastico
 elefante
+elfo
+elica
+elicottero
 elmo
+elsa
 eminem
+erba
+esploratore
+estate
 euro
 facciata
 falce
 falena
+falò
 fango
 fanta
+fantasma
+fascia
 felpa
 fenice
 fenicottero
@@ -189,19 +262,24 @@ ferro da stiro
 ferro di cavallo
 fessura
 festa
+figlia
 fine
 finn
 firma
 fischietto
+fiume
 folletto
 forbici
+forchetta
 foresta
+forte
 fortuna
 fragola
 francia
 francobollo
 freccia
 freddo
+freezer
 friggere
 frittata
 frullatore
@@ -209,20 +287,26 @@ fruttivendolo
 frutto
 fumo
 gabbia per uccelli
+gabinetto
 gallo
 gambe
 gamberetto
 gandhi
 gara
+gatto con gli stivali
+gazzella
 gel
 gelatina
 genio
+genitori
 geografia
+geroglifico
 ghiaccio
 ghigliottina
 ghirlanda
 giaguaro
 gigante
+ginocchio
 gioiello
 giornale
 giovedì
@@ -232,11 +316,15 @@ goccia
 goleador
 gomito
 gomma
+gomma da masticare
+gong
 google
+gradino
 graffetta
 graffiti
 grammofono
 granchio
+gregge
 griglia
 grilletto
 grillo
@@ -245,21 +333,31 @@ guanto
 guanto da forno
 gucci
 guerriero
+guidare
 gumball
 hacker
 halo
+hamburger
+hashtag
 hot dog
+iceberg
 il paese delle meraviglie
+impasto
+inchiostro
 incinta
 incognito
 india
 indonesia
+infradito
 inghilterra
 insalata
+interruttore
+intrecciato
 invasione
 iphone
 ippopotamo
 iron man
+james bond
 jeep
 jenga
 john cena
@@ -269,14 +367,18 @@ kebab
 ketchup
 kiwi
 lacrima
+lady gaga
 lavare
 lavatrice
 leccare
 leggero
 lente d'ingrandimento
+lentiggini
 lento
 leone
+letto
 libellula
+libro
 limonata
 linea
 lingua
@@ -286,8 +388,10 @@ londra
 lotteria
 lozione
 luce stradale
+lucertola
 luna piena
 lunedì
+maccheroni
 macchina da cucito
 macchina da scrivere
 macellaio
@@ -297,9 +401,13 @@ magnete
 mago
 maionese
 mal di testa
+mammella
 mandarino
 mandorla
+manicure
 mantide
+mare
+margherita
 marocco
 marte
 martedì
@@ -311,9 +419,11 @@ matita
 matrimonio
 mazza
 mela
+mela d'oro
 mensola
 mercedes
 mercoledì
+metà
 michael jackson
 microonde
 minecraft
@@ -327,6 +437,7 @@ molla
 mongolfiera
 monopattino
 monster
+morso
 mosca
 mostarda
 motore
@@ -335,70 +446,114 @@ mtv
 muro
 mutande
 nacchere
+nano
+naso
+nastro adesivo
 natale
 nave
 negozio
+neo
 nero
 nike
 nocche
 nocciola
 noce
+noce di cocco
+nodo
+norvegia
 notre dame
 obbiettivo
+occhiaie
 occhiali
 olio
 oliva
+orchestra
 orecchio
 ornitorinco
+oro
 orologio
 orologio da polso
+orsacchiotto
+orso
 orso polare
 osservatorio
 ovale
 paese
+pagina
 pagliaccio
+pagnotta
 pakistan
 palazzo
 paletta
 palloncino
 palma
+palmo
 palo
 pancake
 panda
+panino
 pantera
+pantofole
+paprica
+paraorecchie
 parata
+parco eolico
 parigi
 passeggino
+password
+pasta
 pasta sfoglia
+pasticcino
 patente
 pausa
+pecora
 peli del petto
+peloso
 penna
 pentola
 pepe
 peppa pig
 pepsi
 pesce
+peso
 petalo
+pettine
+petto
 pianeta
 pianta
+piatto
 piccione
 piccolo
 piercing al naso
 pikachu
 pinguino
+pinocchio
 pistola
+pittura
+piuma
+pizza
 pollice
+polmone
+polo nord
+polpetta
 polpettone
+polpo
+poltrona
+porcellino d'india
+porcile
 porcospino
+porky pig
 porta
 pozzo
 presa
 prete
 prigione
 prigioniero
+professore
 proiettore
+pterodattilo
 puffino
+pugnalare
 pulcino
 puma
 punizione
@@ -411,10 +566,14 @@ radice
 raggi x
 rebus
 recitazione
+regina
 registrare
+relitto
 renna
+rete
 rete da pesca
 riccioli d'oro
+righello
 ristorante
 ritratto
 romania
@@ -425,9 +584,12 @@ ruota panoramica
 russia
 sabato
 sacco
+salice
 salmone
 salute
 salvadanaio
+sapone
+satellite
 sbattere
 scaricare
 scassinatore
@@ -438,12 +600,15 @@ scimmia
 scintilla
 scopa
 scorpione
+scottex
 scozia
 scrittore
 scultura
 scuola
 scuotere
 sedia
+seme di mela
+semicerchio
 serratura
 sfera di cristallo
 shampoo
@@ -453,20 +618,28 @@ soffitta
 soldato
 sottomarino
 sottopeso
+sovrano
 sovrappeso
+spada
 spalliera
 spartacus
 spazio
 spazzatura
+specchio
 spia
+spiaggia
 spinaci
 spirale
 spongebob
+spugna
 stagione
 starnuto
+stella
 stella cadente
+stickman
 stonehenge
 stop
+strada
 stregone
 stretta di mano
 studio
@@ -479,16 +652,22 @@ sussurro
 svapare
 sventolare
 svezia
+taco
 tails
 tappetino
 tappeto rosso
 tasca
+taser
 tavolo
+tavolozza
 tazza
 teleferica
+telefono
+tempesta
 tempo
 tenda
 tennis
+tentacolo
 teppista
 terminator
 terra
@@ -496,15 +675,18 @@ terrario
 testa
 thor
 tigre
+tipì
 tiro alla fune
 toga
 topolino
+torcia
 tornado
 torre
 torre di pisa
 traffico
 trappola per orsi
 trappola per topi
+treno
 treppiedi
 tricheco
 triciclo
@@ -512,18 +694,26 @@ trincea
 trio
 triste
 trofeo
+troll
 tromba d'aria
+trombetta
 trucco di magia
 tsunami
 tuorlo
 twitter
+ufficio
 uganda
+ulivo
 ululato
+uovo
 uovo d'oro
+usain bolt
 uva
 valigetta
 valle
 vaso
+veloce
+vena
 venerdì
 vento
 verme
@@ -534,10 +724,13 @@ volto
 vulcano
 wafer
 wall-e
+william shakespeare
+xbox
 yin e yang
 yoda
 zaffiro
 zaino
+zampa
 zanna
 zoccolo
 zoo
