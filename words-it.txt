@@ -1,12 +1,15 @@
 abaco
 abito
 accendino
+accento
 acceso
 account
 acquario
 acrobata
+addominali
 adidas
 aereo di carta
+aereoplano
 afoso
 agente
 ago
@@ -32,6 +35,7 @@ angry birds
 anguilla
 anguria
 annaffiatoio
+anonimo
 antartide
 antico
 antivirus
@@ -41,6 +45,7 @@ ape
 applauso
 apple
 apriscatole
+arachide
 arancia
 arbitro
 argentina
@@ -56,6 +61,7 @@ asfalto
 asino
 assassino
 asteroide
+astuccio
 atomo
 aula
 auricolari
@@ -66,6 +72,7 @@ avanti veloce
 azione
 babbo natale
 bacino
+bacio
 baffi
 bagno
 baguette
@@ -95,8 +102,10 @@ bicchiere da vino
 bicchierino
 bidone
 bilancia
+biliardo
 bill gates
 bingo
+binocolo
 bitcoin
 blocco notes
 blu
@@ -108,6 +117,7 @@ bomba atomica
 borraccia
 borsetta
 bottone
+bouquet
 bowling
 braccialetto
 braille
@@ -125,6 +135,7 @@ cactus
 caffè
 caffetteria
 calamaro
+calendario
 calzini
 camaleonte
 cameraman
@@ -144,14 +155,18 @@ carpentiere
 carrello
 carriola
 carta
+carta igienica
 casa
 casa bianca
 casa infestata
+cascata
 casco
 caserma dei pompieri
 casino
+cassa degli attrezzi
 cassetta postale
 cassetto
+castoro
 catalogo
 catena
 catena d'oro
@@ -166,6 +181,7 @@ cerchio
 ceretta
 cerotto
 cesoia
+cesto
 cheerleader
 cheesecake
 chiave
@@ -177,8 +193,10 @@ chrome
 cibo per cani
 cicatrice
 ciclista
+cigno
 cimice
 cina
+cioccolata
 cioccolato
 circonferenza
 clessidra
@@ -225,15 +243,18 @@ culla
 cuoco
 cuore
 danimarca
+darwin watterson
 decaffeinato
 decorare
 delfino
 demone
 denaro
+dente
 dente di leone
 dentifricio
 dentista
 dentro
+desiderio
 detergente
 diagonale
 diamante
@@ -255,6 +276,7 @@ dottore
 drift
 duro
 echidna
+eclisse
 edificio
 elastico
 elefante
@@ -279,6 +301,7 @@ fango
 fanta
 fantasma
 fascia
+fata
 felpa
 fenice
 fenicottero
@@ -288,17 +311,22 @@ ferro da stiro
 ferro di cavallo
 fessura
 festa
+fetta
 figlia
 fine
 finn
+fiocco di neve
 fionda
 firma
 fischietto
 fiume
+flessione
 folletto
+fontana
 forbici
 forchetta
 foresta
+forno
 forte
 fortuna
 fragola
@@ -342,6 +370,7 @@ giorno
 giovedì
 giraffa
 girandola
+gnomo
 goccia
 godzilla
 goleador
@@ -394,6 +423,7 @@ interruttore
 intrecciato
 invasione
 iphone
+ipnosi
 ippopotamo
 iron man
 james bond
@@ -405,6 +435,7 @@ katy perry
 kebab
 ketchup
 kiwi
+koala
 lacrima
 lady gaga
 lanciatore
@@ -435,11 +466,13 @@ lunedì
 maccheroni
 macchina da cucito
 macchina da scrivere
+macchina del tempo
 macellaio
 madagascar
 maestro
 magnete
 mago
+magro
 maiale
 maionese
 mal di schiena
@@ -448,6 +481,7 @@ mammella
 mandarino
 mandorla
 manicure
+maniglia
 mano
 mantide
 mare
@@ -465,6 +499,7 @@ mazza
 mela
 mela d'oro
 mensola
+menù
 mercato
 mercedes
 mercoledì
@@ -489,8 +524,10 @@ morso
 mosca
 mostarda
 motore
+motosega
 mozart
 mtv
+muffin
 muro
 mutande
 nacchere
@@ -511,8 +548,10 @@ noce
 noce di cocco
 nodo
 norvegia
+nota musicale
 notre dame
 obbiettivo
+ocarina
 occhiaie
 occhiali
 olio
@@ -524,6 +563,7 @@ oro
 orologio
 orologio da polso
 orsacchiotto
+orsetto gommoso
 orso
 orso polare
 osservatorio
@@ -541,13 +581,16 @@ palma
 palmo
 palo
 pancake
+pancia
 panda
+panda rosso
 panino
 panna
 pantera
 pantofole
 papavero
 paprica
+paracadutismo
 paraorecchie
 parata
 parco eolico
@@ -557,6 +600,7 @@ password
 pasta
 pasta sfoglia
 pasticcino
+pasto
 patente
 pausa
 pavimento
@@ -577,6 +621,7 @@ petto
 pianeta
 pianta
 piatto
+piazza
 piccione
 piccolo
 piercing al naso
@@ -584,6 +629,7 @@ pigna
 pikachu
 pinguino
 pinocchio
+piroetta
 pistacchio
 pistola
 pittura
@@ -618,14 +664,17 @@ pugnalare
 pulcino
 puma
 punizione
+punta
 pupazzo di neve
 puzza
 puzzle
 racchetta da tennis
 radar
 radice
+radio
 raggi x
 rana
+rapper
 rastrello
 re
 rebus
@@ -643,8 +692,10 @@ ristorante
 ritratto
 romania
 rosa
+rospo
 rosso
 rubino
+ruga
 ruota panoramica
 russia
 sabato
@@ -654,7 +705,9 @@ salmone
 saltello
 salute
 salvadanaio
+sanguisuga
 sapone
+sarto
 satellite
 sbattere
 scaricare
@@ -675,6 +728,7 @@ scultura
 scuola
 scuotere
 sedia
+seme
 seme di mela
 semicerchio
 serratura
@@ -685,6 +739,7 @@ sirena
 smoking
 soffitta
 soldato
+sole
 sottomarino
 sottopeso
 sovrano
@@ -751,6 +806,7 @@ thor
 tigre
 tipì
 tiro alla fune
+titanic
 tofu
 toga
 topolino
@@ -775,28 +831,34 @@ tromba d'aria
 trombetta
 trucco di magia
 tsunami
+tumore
 tuorlo
 twitter
 ufficio
 uganda
 ulivo
 ululato
+umano
 uovo
 uovo d'oro
 usain bolt
 uva
+valanga
 valigetta
 valle
 vaso
 veloce
 vena
 venerdì
+venere
 vento
 verde
 verme
+vestito
 vetro
 viola
 virus
+viso
 volo
 volto
 vulcano
@@ -811,8 +873,10 @@ zaffiro
 zaino
 zampa
 zanna
+zebra
 zoccolo
 zoo
 zoom
 zorro
 zucca di halloween
+zucchero
