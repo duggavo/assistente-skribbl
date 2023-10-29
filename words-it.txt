@@ -1,4 +1,5 @@
 abaco
+abbaiare
 abito
 accendino
 accento
@@ -8,6 +9,7 @@ acquario
 acrobata
 addominali
 adidas
+adottare
 aereo di carta
 aereoplano
 afoso
@@ -48,6 +50,7 @@ apriscatole
 arachide
 arancia
 arbitro
+arbusto
 argentina
 aria
 armadietto
@@ -65,6 +68,7 @@ astuccio
 atomo
 aula
 auricolari
+auto
 auto elettrica
 autografo
 autolavaggio
@@ -78,13 +82,16 @@ bagno
 baguette
 balcone
 ballerina
+bambino
 banana
+banca
 banco
 bandiera
 barattolo
 barba
 barbecue
 barbie
+barbiere
 barra
 barriera corallina
 bart simpson
@@ -101,6 +108,7 @@ bicchiere
 bicchiere da vino
 bicchierino
 bidone
+big ben
 bilancia
 biliardo
 bill gates
@@ -136,11 +144,14 @@ caffè
 caffetteria
 calamaro
 calendario
+calore
 calzini
 camaleonte
 cameraman
 camion
 camioncino dei gelati
+canarino
+cancrena
 canile
 canna da pesca
 canne
@@ -148,12 +159,15 @@ cannuccia
 canoa
 canyon
 capelli
+capitolo
 cappello a cilindro
 cappuccino
 capra
+carnivoro
 carpentiere
 carrello
 carriola
+carro attrezzi
 carta
 carta igienica
 casa
@@ -166,6 +180,7 @@ casino
 cassa degli attrezzi
 cassetta postale
 cassetto
+castagna
 castoro
 catalogo
 catena
@@ -198,6 +213,7 @@ cimice
 cina
 cioccolata
 cioccolato
+circolo vizioso
 circonferenza
 clessidra
 click
@@ -219,6 +235,7 @@ commerciale
 compleanno
 completo
 computer
+comunismo
 coniglio
 controller
 coperchio
@@ -229,6 +246,7 @@ corno
 corpo
 corsia
 cotone
+cratere
 cravatta
 creeper
 crepa
@@ -236,9 +254,11 @@ croazia
 croce
 cronometro
 crostata
+crostata di mele
 cubo di rubik
 cucchiaio
 cucina
+cuculo
 culla
 cuoco
 cuore
@@ -262,7 +282,9 @@ diapason
 didgeridoo
 difendere
 digitare
+dio
 dipendenza
+diploma
 dita dei piedi
 dito
 divorzio
@@ -273,6 +295,7 @@ dolore
 domenica
 dora
 dottore
+drago
 drift
 duro
 echidna
@@ -284,14 +307,17 @@ elfo
 elica
 elicottero
 elmo
+elon musk
 elsa
 eminem
+equilibrio
 erba
 erbacce
 erbivoro
 esagono
 esploratore
 estate
+etichetta
 euro
 facciata
 falce
@@ -313,13 +339,16 @@ fessura
 festa
 fetta
 figlia
+filo
 fine
 finn
+fiocco
 fiocco di neve
 fionda
 firma
 fischietto
 fiume
+flauto di pan
 flessione
 folletto
 fontana
@@ -354,13 +383,16 @@ gatto con gli stivali
 gazzella
 gel
 gelatina
+gemma
 genio
 genitori
 geografia
 geroglifico
 ghiaccio
+ghianda
 ghigliottina
 ghirlanda
+giacca
 giaguaro
 gigante
 ginocchio
@@ -374,6 +406,7 @@ gnomo
 goccia
 godzilla
 goleador
+golf cart
 gomito
 gomma
 gomma da masticare
@@ -392,10 +425,12 @@ grembiule
 griglia
 grilletto
 grillo
+grotta
 gru
 guancia
 guanto
 guanto da forno
+guasto
 gucci
 guerriero
 guidare
@@ -408,6 +443,7 @@ hashtag
 hot dog
 hulk
 iceberg
+idea
 il paese delle meraviglie
 impasto
 inchiostro
@@ -416,6 +452,7 @@ incognito
 incudine
 india
 indonesia
+infinito
 infradito
 inghilterra
 insalata
@@ -436,9 +473,12 @@ kebab
 ketchup
 kiwi
 koala
+labirinto
 lacrima
 lady gaga
+lampadina
 lanciatore
+lapide
 latte
 lavare
 lavatrice
@@ -452,6 +492,7 @@ letto
 libellula
 libro
 limonata
+lince
 linea
 lingua
 link
@@ -486,6 +527,7 @@ mano
 mantide
 mare
 margherita
+mario
 marocco
 marte
 martedì
@@ -496,9 +538,12 @@ materasso
 matita
 matrimonio
 mazza
+medusa
 mela
 mela d'oro
+melma
 mensola
+mento
 menù
 mercato
 mercedes
@@ -506,6 +551,7 @@ mercoledì
 metà
 metro
 michael jackson
+micio
 microonde
 minecraft
 minestra
@@ -528,10 +574,12 @@ motosega
 mozart
 mtv
 muffin
+mummia
 muro
 mutande
 nacchere
 nano
+nasa
 naso
 nastro
 nastro adesivo
@@ -547,10 +595,12 @@ nocciola
 noce
 noce di cocco
 nodo
+nonna
 norvegia
 nota musicale
 notre dame
 obbiettivo
+obelix
 ocarina
 occhiaie
 occhiali
@@ -568,10 +618,12 @@ orso
 orso polare
 osservatorio
 ovale
+pac-man
 paese
 pagina
 pagliaccio
 pagnotta
+paintball
 pakistan
 palazzo
 paletta
@@ -581,6 +633,7 @@ palma
 palmo
 palo
 pancake
+panchina
 pancia
 panda
 panda rosso
@@ -589,6 +642,7 @@ panna
 pantera
 pantofole
 papavero
+papillon
 paprica
 paracadutismo
 paraorecchie
@@ -614,7 +668,9 @@ pepe
 peppa pig
 pepsi
 pesce
+pesce pagliaccio
 peso
+peste
 petalo
 pettine
 petto
@@ -643,6 +699,7 @@ polpetta
 polpettone
 polpo
 poltrona
+polvere da sparo
 pomello
 porcellino d'india
 porcile
@@ -652,12 +709,14 @@ porta
 positivo
 posseduto
 pozzo
+prateria
 presa
 prete
 prigione
 prigioniero
 professore
 proiettore
+protesta
 pterodattilo
 puffino
 pugnalare
@@ -666,6 +725,7 @@ puma
 punizione
 punta
 pupazzo di neve
+puro
 puzza
 puzzle
 racchetta da tennis
@@ -673,11 +733,14 @@ radar
 radice
 radio
 raggi x
+ramo
 rana
 rapper
 rastrello
 re
+realtà virtuale
 rebus
+recinto
 recitazione
 regina
 registrare
@@ -699,6 +762,7 @@ ruga
 ruota panoramica
 russia
 sabato
+sabbia
 sacco
 salice
 salmone
@@ -718,6 +782,7 @@ scheletro
 scienziato
 scimmia
 scintilla
+scintille
 sciogliere
 scopa
 scorpione
@@ -727,6 +792,7 @@ scrittore
 scultura
 scuola
 scuotere
+secchio
 sedia
 seme
 seme di mela
@@ -734,12 +800,14 @@ semicerchio
 serratura
 sfera di cristallo
 shampoo
+sigaretta
 sinfonia
 sirena
 smoking
 soffitta
 soldato
 sole
+sombrero
 sottomarino
 sottopeso
 sovrano
@@ -753,12 +821,15 @@ spazzatura
 specchio
 spia
 spiaggia
+spillo
+spina
 spinaci
 spirale
 spongebob
 spugna
 squiddi
 stagione
+stanco
 starnuto
 stella
 stella cadente
@@ -804,6 +875,7 @@ terrario
 testa
 thor
 tigre
+timido
 tipì
 tiro alla fune
 titanic
@@ -814,8 +886,12 @@ torcia
 tornado
 torre
 torre di pisa
+totem
 traffico
+tramonto
+trampolino
 transenna
+trappola
 trappola per orsi
 trappola per topi
 treno
@@ -829,12 +905,15 @@ trofeo
 troll
 tromba d'aria
 trombetta
+trono
 trucco di magia
 tsunami
 tumore
 tuorlo
 twitter
+ucraina
 ufficio
+ufo
 uganda
 ulivo
 ululato
@@ -846,7 +925,10 @@ uva
 valanga
 valigetta
 valle
+vasca per pesci
 vaso
+vecchio
+veicolo
 veloce
 vena
 venerdì
