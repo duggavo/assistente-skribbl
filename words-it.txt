@@ -4,6 +4,7 @@ abito
 accendino
 accento
 acceso
+acchiappamosche
 account
 acquario
 acrobata
@@ -20,6 +21,7 @@ ala
 albero
 album
 albume
+alcol
 aliante
 allarme
 allegro
@@ -28,7 +30,9 @@ altalena
 amaca
 amante
 ambulanza
+america
 ammiccare
+anaconda
 andarsene
 android
 anello
@@ -62,9 +66,11 @@ asciugacapelli
 asfaltatrice
 asfalto
 asino
+aspro
 assassino
 asteroide
 astuccio
+atena
 atomo
 aula
 auricolari
@@ -73,7 +79,9 @@ auto elettrica
 autografo
 autolavaggio
 avanti veloce
+avvoltoio
 azione
+azzurro
 babbo natale
 bacino
 bacio
@@ -95,6 +103,7 @@ barbiere
 barra
 barriera corallina
 bart simpson
+baseball
 basilico
 bassotto
 bastone
@@ -128,6 +137,7 @@ bottone
 bouquet
 bowling
 braccialetto
+brachiosauro
 braille
 brasile
 brocca
@@ -163,6 +173,7 @@ capitolo
 cappello a cilindro
 cappuccino
 capra
+caricabatteria
 carnivoro
 carpentiere
 carrello
@@ -172,6 +183,7 @@ carta
 carta igienica
 casa
 casa bianca
+casa di riposo
 casa infestata
 cascata
 casco
@@ -190,12 +202,16 @@ cavalletta
 cavallo
 cavo
 cavolo
+cellulare
 cemento
 cenere
+centro commerciale
 cerchio
+cereali
 ceretta
 cerotto
 cesoia
+cestino
 cesto
 cheerleader
 cheesecake
@@ -208,7 +224,9 @@ chrome
 cibo per cani
 cicatrice
 ciclista
+ciclope
 cigno
+ciliegia
 cimice
 cina
 cioccolata
@@ -237,14 +255,17 @@ completo
 computer
 comunismo
 coniglio
+coniglio pasquale
 controller
 coperchio
 coperta
+coperte
 copiare
 corna
 corno
 corpo
 corsia
+corvo
 cotone
 cratere
 cravatta
@@ -262,6 +283,7 @@ cuculo
 culla
 cuoco
 cuore
+dab
 danimarca
 darwin watterson
 decaffeinato
@@ -292,6 +314,7 @@ dizionario
 dna
 doccia
 dolore
+domani
 domenica
 dora
 dottore
@@ -316,23 +339,29 @@ erbacce
 erbivoro
 esagono
 esploratore
+esplosione
 estate
 etichetta
 euro
 facciata
+facebook
 falce
 falena
 falò
 fango
 fanta
 fantasma
+fantasticare
 fascia
 fata
+febbre
 felpa
+femmina
 fenice
 fenicottero
 ferita
 ferrari
+ferro
 ferro da stiro
 ferro di cavallo
 fessura
@@ -368,6 +397,7 @@ freezer
 friggere
 frigorifero
 frittata
+frizzante
 frullatore
 fruttivendolo
 frutto
@@ -378,6 +408,7 @@ gallo
 gambe
 gamberetto
 gandhi
+gangster
 gara
 gatto con gli stivali
 gazzella
@@ -449,6 +480,7 @@ impasto
 inchiostro
 incinta
 incognito
+incollare
 incudine
 india
 indonesia
@@ -474,12 +506,14 @@ ketchup
 kiwi
 koala
 labirinto
+laccio della scarpa
 lacrima
 lady gaga
 lampadina
 lanciatore
 lapide
 latte
+lattuga
 lavare
 lavatrice
 leccare
@@ -589,6 +623,7 @@ negozio
 neo
 nero
 neve
+nido
 nike
 nocche
 nocciola
@@ -659,6 +694,7 @@ patente
 pausa
 pavimento
 pecora
+pegaso
 peli del petto
 peloso
 pelosoito
@@ -683,6 +719,7 @@ piccolo
 piercing al naso
 pigna
 pikachu
+ping pong
 pinguino
 pinocchio
 piroetta
@@ -692,6 +729,7 @@ pittura
 piuma
 pizza
 playstation
+poliziotto
 pollice
 polmone
 polo nord
@@ -699,6 +737,7 @@ polpetta
 polpettone
 polpo
 poltrona
+polvere
 polvere da sparo
 pomello
 porcellino d'india
@@ -733,6 +772,7 @@ radar
 radice
 radio
 raggi x
+ragnatela
 ramo
 rana
 rapper
@@ -764,6 +804,7 @@ russia
 sabato
 sabbia
 sacco
+sacro
 salice
 salmone
 saltello
@@ -781,6 +822,7 @@ scavo
 scheletro
 scienziato
 scimmia
+scimpanzè
 scintilla
 scintille
 sciogliere
@@ -813,12 +855,15 @@ sottopeso
 sovrano
 sovrappeso
 spada
+spada laser
 spaghetti
+spalla
 spalliera
 spartacus
 spazio
 spazzatura
 specchio
+spesa
 spia
 spiaggia
 spillo
@@ -831,6 +876,7 @@ squiddi
 stagione
 stanco
 starnuto
+statua della libertà
 stella
 stella cadente
 stickman
@@ -851,7 +897,10 @@ sventolare
 svezia
 taco
 taglialegna
+taglio
 tails
+talpa
+tana
 tappetino
 tappeto rosso
 tasca
@@ -872,6 +921,7 @@ teppista
 terminator
 terra
 terrario
+test
 testa
 thor
 tigre
@@ -879,6 +929,7 @@ timido
 tipì
 tiro alla fune
 titanic
+toast
 tofu
 toga
 topolino
@@ -935,6 +986,7 @@ venerdì
 venere
 vento
 verde
+verdure
 verme
 vestito
 vetro
@@ -948,6 +1000,7 @@ wafer
 wall-e
 william shakespeare
 william wallace
+windows
 xbox
 yin e yang
 yoda
@@ -956,6 +1009,7 @@ zaino
 zampa
 zanna
 zebra
+zerbino
 zoccolo
 zoo
 zoom
