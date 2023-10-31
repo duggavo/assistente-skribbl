@@ -6,6 +6,7 @@ accento
 acceso
 acchiappamosche
 account
+acne
 acquario
 acrobata
 addominali
@@ -22,6 +23,7 @@ albero
 album
 albume
 alcol
+algeria
 aliante
 allarme
 allegro
@@ -33,6 +35,7 @@ ambulanza
 america
 ammiccare
 anaconda
+anatra
 andarsene
 android
 anello
@@ -76,6 +79,7 @@ aula
 auricolari
 auto
 auto elettrica
+autobiografia
 autografo
 autolavaggio
 avanti veloce
@@ -90,7 +94,9 @@ bagno
 baguette
 balcone
 ballerina
+ballo
 bambino
+bambola
 banana
 banca
 banco
@@ -100,6 +106,7 @@ barba
 barbecue
 barbie
 barbiere
+barca a vela
 barra
 barriera corallina
 bart simpson
@@ -108,6 +115,7 @@ basilico
 bassotto
 bastone
 batti cinque
+baule
 beatbox
 bebè
 befana
@@ -136,10 +144,12 @@ borsetta
 bottone
 bouquet
 bowling
+boxe
 braccialetto
 brachiosauro
 braille
 brasile
+bretelle
 brocca
 bruce lee
 buco
@@ -158,6 +168,7 @@ calore
 calzini
 camaleonte
 cameraman
+camino
 camion
 camioncino dei gelati
 canarino
@@ -167,6 +178,7 @@ canna da pesca
 canne
 cannuccia
 canoa
+canto
 canyon
 capelli
 capitolo
@@ -175,6 +187,7 @@ cappuccino
 capra
 caricabatteria
 carnivoro
+carota
 carpentiere
 carrello
 carriola
@@ -185,6 +198,7 @@ casa
 casa bianca
 casa di riposo
 casa infestata
+casa sull'albero
 cascata
 casco
 caserma dei pompieri
@@ -193,6 +207,7 @@ cassa degli attrezzi
 cassetta postale
 cassetto
 castagna
+castello di sabbia
 castoro
 catalogo
 catena
@@ -205,7 +220,10 @@ cavolo
 cellulare
 cemento
 cenere
+cenerentola
+centesimo
 centro commerciale
+cera
 cerchio
 cereali
 ceretta
@@ -221,6 +239,7 @@ chiodo
 chitarra
 chitarra elettrica
 chrome
+ciabatta
 cibo per cani
 cicatrice
 ciclista
@@ -228,7 +247,9 @@ ciclope
 cigno
 ciliegia
 cimice
+cimitero
 cina
+cinema
 cioccolata
 cioccolato
 circolo vizioso
@@ -244,6 +265,8 @@ coda
 cola
 colibrì
 colla
+collana
+collina
 collo
 colombia
 colonna
@@ -256,6 +279,7 @@ computer
 comunismo
 coniglio
 coniglio pasquale
+console
 controller
 coperchio
 coperta
@@ -304,6 +328,7 @@ diapason
 didgeridoo
 difendere
 digitare
+dinamite
 dio
 dipendenza
 diploma
@@ -320,12 +345,14 @@ dora
 dottore
 drago
 drift
+drone
 duro
 echidna
 eclisse
 edificio
 elastico
 elefante
+elenco
 elfo
 elica
 elicottero
@@ -355,6 +382,7 @@ fantasticare
 fascia
 fata
 febbre
+felice
 felpa
 femmina
 fenice
@@ -368,7 +396,9 @@ fessura
 festa
 fetta
 figlia
+film
 filo
+filtro
 fine
 finn
 fiocco
@@ -379,11 +409,13 @@ fischietto
 fiume
 flauto di pan
 flessione
+foca
 folletto
 fontana
 forbici
 forchetta
 foresta
+formicaio
 forno
 forte
 fortuna
@@ -401,6 +433,7 @@ frizzante
 frullatore
 fruttivendolo
 frutto
+fulmine
 fumo
 gabbia per uccelli
 gabinetto
@@ -433,6 +466,7 @@ giorno
 giovedì
 giraffa
 girandola
+gnocchi
 gnomo
 goccia
 godzilla
@@ -448,11 +482,13 @@ gradino
 graffetta
 graffiti
 grammofono
+gran bretagna
 granchio
 grattacielo
 grecia
 gregge
 grembiule
+grigio
 griglia
 grilletto
 grillo
@@ -464,17 +500,21 @@ guanto da forno
 guasto
 gucci
 guerriero
+gufo
 guidare
+guitar hero
 gumball
 hacker
 halo
 hamburger
 happy meal
 hashtag
+hip hop
 hot dog
 hulk
 iceberg
 idea
+ikea
 il paese delle meraviglie
 impasto
 inchiostro
@@ -488,13 +528,16 @@ infinito
 infradito
 inghilterra
 insalata
+insetto
 interruttore
 intrecciato
 invasione
 iphone
 ipnosi
 ippopotamo
+irlanda
 iron man
+irrigatore
 james bond
 jeep
 jenga
@@ -513,6 +556,7 @@ lampadina
 lanciatore
 lapide
 latte
+lattina
 lattuga
 lavare
 lavatrice
@@ -532,10 +576,12 @@ lingua
 link
 livido
 londra
+lotta coi cuscini
 lotteria
 lozione
 luce stradale
 lucertola
+luminoso
 luna piena
 lunedì
 maccheroni
@@ -555,6 +601,7 @@ mal di testa
 mammella
 mandarino
 mandorla
+mangiare
 manicure
 maniglia
 mano
@@ -568,6 +615,7 @@ martedì
 martellare
 martello
 martello pneumatico
+maschera antigas
 materasso
 matita
 matrimonio
@@ -576,25 +624,33 @@ medusa
 mela
 mela d'oro
 melma
+meme
 mensola
+menta
 mento
 menù
 mercato
 mercedes
 mercoledì
 metà
+meteo
 metro
 michael jackson
 micio
+microfono
 microonde
 minecraft
 minestra
 miniclip
 minion
 minotauro
+missile
 mocio
+moglie
 mohawk
 molla
+monaco
+mondo
 mongolfiera
 monopattino
 monster
@@ -634,13 +690,18 @@ nonna
 norvegia
 nota musicale
 notre dame
+oasi
 obbiettivo
 obelix
 ocarina
 occhiaie
 occhiali
+occhio
+odore
 olio
 oliva
+onda
+opera
 orchestra
 orecchio
 ornitorinco
@@ -667,6 +728,7 @@ palloncino
 palma
 palmo
 palo
+palpebra
 pancake
 panchina
 pancia
@@ -684,6 +746,8 @@ paraorecchie
 parata
 parco eolico
 parigi
+parrocchetto
+pasqua
 passeggino
 password
 pasta
@@ -693,6 +757,7 @@ pasto
 patente
 pausa
 pavimento
+pavone
 pecora
 pegaso
 peli del petto
@@ -722,6 +787,7 @@ pikachu
 ping pong
 pinguino
 pinocchio
+pippo
 piroetta
 pistacchio
 pistola
@@ -736,10 +802,12 @@ polo nord
 polpetta
 polpettone
 polpo
+polso
 poltrona
 polvere
 polvere da sparo
 pomello
+ponte
 porcellino d'india
 porcile
 porcospino
@@ -751,10 +819,12 @@ pozzo
 prateria
 presa
 prete
+prezzemolo
 prigione
 prigioniero
 professore
 proiettore
+prosciutto
 protesta
 pterodattilo
 puffino
@@ -767,6 +837,7 @@ pupazzo di neve
 puro
 puzza
 puzzle
+puzzola
 racchetta da tennis
 radar
 radice
@@ -784,12 +855,14 @@ recinto
 recitazione
 regina
 registrare
+religione
 relitto
 renna
 rete
 rete da pesca
 riccioli d'oro
 ricco
+riciclaggio
 righello
 ristorante
 ritratto
@@ -805,6 +878,7 @@ sabato
 sabbia
 sacco
 sacro
+salame
 salice
 salmone
 saltello
@@ -815,17 +889,21 @@ sapone
 sarto
 satellite
 sbattere
+scala
 scaricare
 scassinatore
 scatola di fiammiferi
 scavo
 scheletro
+scherma
+sci
 scienziato
 scimmia
 scimpanzè
 scintilla
 scintille
 sciogliere
+scivolo
 scopa
 scorpione
 scottex
@@ -842,9 +920,13 @@ semicerchio
 serratura
 sfera di cristallo
 shampoo
+shopping
 sigaretta
+silenzio
 sinfonia
 sirena
+skribbl.io
+skype
 smoking
 soffitta
 soldato
@@ -852,6 +934,7 @@ sole
 sombrero
 sottomarino
 sottopeso
+sottrazione
 sovrano
 sovrappeso
 spada
@@ -879,6 +962,7 @@ starnuto
 statua della libertà
 stella
 stella cadente
+stendibiancheria
 stickman
 stonehenge
 stop
@@ -895,6 +979,7 @@ sussurro
 svapare
 sventolare
 svezia
+tacchi alti
 taco
 taglialegna
 taglio
@@ -905,6 +990,7 @@ tappetino
 tappeto rosso
 tasca
 taser
+tastierino
 tavola
 tavola da surf
 tavolo
@@ -912,6 +998,7 @@ tavolozza
 tazza
 teleferica
 telefono
+telescopio
 tempesta
 tempo
 tenda
@@ -938,6 +1025,7 @@ tornado
 torre
 torre di pisa
 totem
+traduzione
 traffico
 tramonto
 trampolino
@@ -969,10 +1057,13 @@ uganda
 ulivo
 ululato
 umano
+uncino
+unghia
 uovo
 uovo d'oro
 usain bolt
 uva
+vaccino
 valanga
 valigetta
 valle
@@ -991,13 +1082,16 @@ verme
 vestito
 vetro
 viola
+violenza
 virus
 viso
 volo
 volto
 vulcano
 wafer
+waffle
 wall-e
+whatsapp
 william shakespeare
 william wallace
 windows
@@ -1008,6 +1102,7 @@ zaffiro
 zaino
 zampa
 zanna
+zanzara
 zebra
 zerbino
 zoccolo
