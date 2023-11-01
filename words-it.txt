@@ -6,6 +6,7 @@ accento
 acceso
 acchiappamosche
 account
+aceto
 acne
 acquario
 acrobata
@@ -35,6 +36,7 @@ ambulanza
 america
 ammiccare
 anaconda
+ananas
 anatra
 andarsene
 android
@@ -435,6 +437,7 @@ fruttivendolo
 frutto
 fulmine
 fumo
+fungo
 gabbia per uccelli
 gabinetto
 gallo
