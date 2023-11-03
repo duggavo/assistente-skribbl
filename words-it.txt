@@ -15,6 +15,7 @@ adidas
 adottare
 aereo di carta
 aereoplano
+affitto
 afoso
 agente
 ago
@@ -30,6 +31,7 @@ allarme
 allegro
 allenamento
 altalena
+alzabandiera
 amaca
 amante
 ambulanza
@@ -52,6 +54,7 @@ antico
 antivirus
 anubis
 anulare
+anziano
 ape
 applauso
 apple
@@ -80,11 +83,13 @@ atomo
 aula
 auricolari
 auto
+auto da corsa
 auto elettrica
 autobiografia
 autografo
 autolavaggio
 avanti veloce
+avocado
 avvoltoio
 azione
 azzurro
@@ -92,9 +97,11 @@ babbo natale
 bacino
 bacio
 baffi
+bagaglio
 bagno
 baguette
 balcone
+balestra
 ballerina
 ballo
 bambino
@@ -109,6 +116,7 @@ barbecue
 barbie
 barbiere
 barca a vela
+barile
 barra
 barriera corallina
 bart simpson
@@ -131,10 +139,12 @@ big ben
 bilancia
 biliardo
 bill gates
+binario
 bingo
 binocolo
 bitcoin
 blocco notes
+blocco stradale
 blu
 bmx
 bob
@@ -143,6 +153,7 @@ bollire
 bomba atomica
 borraccia
 borsetta
+bossolo
 bottone
 bouquet
 bowling
@@ -156,34 +167,45 @@ brocca
 bruce lee
 buco
 buffet
+buffone
 bus
 bustina del tè
 busto
 cabina telefonica
 cacca
+cacciavite
 cactus
 caffè
 caffetteria
 calamaro
+calcio
+calderone
+caldo
 calendario
 calore
 calzini
 camaleonte
 cameraman
+camicia
 camino
 camion
+camion dei pompieri
 camioncino dei gelati
+campana
 canarino
 cancrena
+cane da pastore
 canile
 canna da pesca
 canne
+cannone
 cannuccia
 canoa
 canto
 canyon
 capelli
 capitolo
+capo
 cappello a cilindro
 cappuccino
 capra
@@ -233,6 +255,7 @@ cerotto
 cesoia
 cestino
 cesto
+cetriolo
 cheerleader
 cheesecake
 chiave
@@ -256,6 +279,7 @@ cioccolata
 cioccolato
 circolo vizioso
 circonferenza
+città del vaticano
 clessidra
 click
 cobra
@@ -334,12 +358,14 @@ dinamite
 dio
 dipendenza
 diploma
+distanza
 dita dei piedi
 dito
 divorzio
 dizionario
 dna
 doccia
+dogana
 dolore
 domani
 domenica
@@ -355,6 +381,7 @@ edificio
 elastico
 elefante
 elenco
+elezioni
 elfo
 elica
 elicottero
@@ -372,6 +399,7 @@ esplosione
 estate
 etichetta
 euro
+fabbrica
 facciata
 facebook
 falce
@@ -381,8 +409,10 @@ fango
 fanta
 fantasma
 fantasticare
+farfalla
 fascia
 fata
+fatina dei denti
 febbre
 felice
 felpa
@@ -390,6 +420,7 @@ femmina
 fenice
 fenicottero
 ferita
+fermata
 ferrari
 ferro
 ferro da stiro
@@ -400,6 +431,7 @@ fetta
 figlia
 film
 filo
+filosofo
 filtro
 fine
 finn
@@ -417,6 +449,7 @@ fontana
 forbici
 forchetta
 foresta
+formaggio
 formicaio
 forno
 forte
@@ -438,6 +471,7 @@ frutto
 fulmine
 fumo
 fungo
+fuochi d'artificio
 gabbia per uccelli
 gabinetto
 gallo
@@ -461,8 +495,10 @@ ghigliottina
 ghirlanda
 giacca
 giaguaro
+giardino
 gigante
 ginocchio
+giocatore
 gioiello
 giornale
 giorno
@@ -487,6 +523,8 @@ graffiti
 grammofono
 gran bretagna
 granchio
+grande barriera corallina
+grano
 grattacielo
 grecia
 gregge
@@ -497,6 +535,7 @@ grilletto
 grillo
 grotta
 gru
+gruccia
 guancia
 guanto
 guanto da forno
@@ -533,6 +572,7 @@ inghilterra
 insalata
 insetto
 interruttore
+intervista
 intrecciato
 invasione
 iphone
@@ -545,6 +585,7 @@ james bond
 jeep
 jenga
 john cena
+johnny bravo
 katana
 katy perry
 kebab
@@ -556,11 +597,13 @@ laccio della scarpa
 lacrima
 lady gaga
 lampadina
+lampone
 lanciatore
 lapide
 latte
 lattina
 lattuga
+laurea
 lavare
 lavatrice
 leccare
@@ -572,6 +615,7 @@ leone
 letto
 libellula
 libro
+lime
 limonata
 lince
 linea
@@ -582,11 +626,13 @@ londra
 lotta coi cuscini
 lotteria
 lozione
+luccio
 luce stradale
 lucertola
 luminoso
 luna piena
 lunedì
+lupo mannaro
 maccheroni
 macchina da cucito
 macchina da scrivere
@@ -594,6 +640,7 @@ macchina del tempo
 macellaio
 madagascar
 maestro
+maglione
 magnete
 mago
 magro
@@ -623,6 +670,7 @@ materasso
 matita
 matrimonio
 mazza
+mazza da baseball
 medusa
 mela
 mela d'oro
@@ -642,6 +690,8 @@ michael jackson
 micio
 microfono
 microonde
+microscopio
+miele
 minecraft
 minestra
 miniclip
@@ -669,6 +719,7 @@ mtv
 muffin
 mummia
 muro
+muro di berlino
 mutande
 nacchere
 nano
@@ -718,6 +769,7 @@ orso polare
 osservatorio
 ovale
 pac-man
+pace
 paese
 pagina
 pagliaccio
@@ -739,6 +791,7 @@ panda
 panda rosso
 panino
 panna
+pantaloni
 pantera
 pantofole
 papavero
@@ -755,6 +808,7 @@ passeggino
 password
 pasta
 pasta sfoglia
+pastello
 pasticcino
 pasto
 patente
@@ -771,6 +825,7 @@ pentola
 pepe
 peppa pig
 pepsi
+pescatore
 pesce
 pesce pagliaccio
 peso
@@ -782,6 +837,7 @@ pianeta
 pianta
 piatto
 piazza
+picasso
 piccione
 piccolo
 piercing al naso
@@ -798,6 +854,7 @@ pittura
 piuma
 pizza
 playstation
+pogo
 poliziotto
 pollice
 polmone
@@ -816,9 +873,12 @@ porcile
 porcospino
 porky pig
 porta
+portafogli
 positivo
 posseduto
+poster
 pozzo
+pozzo dei desideri
 prateria
 presa
 prete
@@ -841,26 +901,33 @@ puro
 puzza
 puzzle
 puzzola
+quadro
 racchetta da tennis
 radar
 radice
 radio
 raggi x
+raggio
 ragnatela
 ramo
 rana
+rana pescatrice
+rapa
 rapper
 rastrello
+razzo
 re
 realtà virtuale
 rebus
 recinto
 recitazione
+regalo
 regina
 registrare
 religione
 relitto
 renna
+reporter
 rete
 rete da pesca
 riccioli d'oro
@@ -869,12 +936,14 @@ riciclaggio
 righello
 ristorante
 ritratto
+roma
 romania
 rosa
 rospo
 rosso
 rubino
 ruga
+rugby
 ruota panoramica
 russia
 sabato
@@ -882,11 +951,13 @@ sabbia
 sacco
 sacro
 salame
+saldi
 salice
 salmone
 saltello
 salute
 salvadanaio
+sangue
 sanguisuga
 sapone
 sarto
@@ -899,6 +970,7 @@ scatola di fiammiferi
 scavo
 scheletro
 scherma
+schermo
 sci
 scienziato
 scimmia
@@ -907,6 +979,7 @@ scintilla
 scintille
 sciogliere
 scivolo
+scogliera
 scopa
 scorpione
 scottex
@@ -917,6 +990,7 @@ scuola
 scuotere
 secchio
 sedia
+segnalibro
 seme
 seme di mela
 semicerchio
@@ -924,12 +998,15 @@ serratura
 sfera di cristallo
 shampoo
 shopping
+shrek
 sigaretta
+signora
 silenzio
 sinfonia
 sirena
 skribbl.io
 skype
+slovacchia
 smoking
 soffitta
 soldato
@@ -945,9 +1022,11 @@ spada laser
 spaghetti
 spalla
 spalliera
+sparo
 spartacus
 spazio
 spazzatura
+spazzolino
 specchio
 spesa
 spia
@@ -993,6 +1072,7 @@ tappetino
 tappeto rosso
 tasca
 taser
+tassista
 tastierino
 tavola
 tavola da surf
@@ -1025,6 +1105,7 @@ toga
 topolino
 torcia
 tornado
+toro
 torre
 torre di pisa
 totem
@@ -1078,6 +1159,7 @@ veloce
 vena
 venerdì
 venere
+venere acchiappamosche
 vento
 verde
 verdure
@@ -1090,6 +1172,8 @@ virus
 viso
 volo
 volto
+volume
+voto
 vulcano
 wafer
 waffle
@@ -1099,6 +1183,7 @@ william shakespeare
 william wallace
 windows
 xbox
+xilofono
 yin e yang
 yoda
 zaffiro
@@ -1114,3 +1199,4 @@ zoom
 zorro
 zucca di halloween
 zucchero
+zucchero filato
