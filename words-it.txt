@@ -1,3 +1,6 @@
+Harry Potter
+Intel
+Vietnam
 abaco
 abbaiare
 abito
@@ -186,8 +189,8 @@ cabina telefonica
 cacca
 cacciavite
 cactus
-caffè
 caffetteria
+caffè
 calamaro
 calcio
 calderone
@@ -273,6 +276,7 @@ cetriolo
 cheerleader
 cheesecake
 chiave
+chimico
 chinatown
 chiodo
 chitarra
@@ -319,6 +323,7 @@ compleanno
 completo
 computer
 comunismo
+congelamento
 coniglio
 coniglio pasquale
 console
@@ -506,6 +511,7 @@ gamberetto
 gandhi
 gangster
 gara
+garage
 gatto con gli stivali
 gazzella
 gel
@@ -703,6 +709,7 @@ manicure
 maniglia
 mano
 mantide
+manzo
 mare
 margherita
 mario
@@ -733,9 +740,9 @@ menù
 mercato
 mercedes
 mercoledì
-metà
 meteo
 metro
+metà
 michael jackson
 micio
 microfono
@@ -807,6 +814,7 @@ occhio
 odore
 olio
 oliva
+ombra
 onda
 opera
 orchestra
@@ -834,6 +842,7 @@ pakistan
 palazzo
 paletta
 palla demolitrice
+palle di neve
 palloncino
 palma
 palmo
@@ -855,6 +864,7 @@ paprica
 paracadutismo
 paraorecchie
 parata
+parcheggio
 parco eolico
 parigi
 parrocchetto
@@ -869,6 +879,7 @@ pasticcino
 pasto
 patatine
 patente
+patriota
 pausa
 pavimento
 pavone
@@ -948,6 +959,7 @@ pozzo dei desideri
 prateria
 presa
 prete
+pretzel
 prezzemolo
 prigione
 prigioniero
@@ -1152,6 +1164,7 @@ tails
 talpa
 tana
 tappetino
+tappeto
 tappeto rosso
 tasca
 taser
@@ -1218,6 +1231,7 @@ trombetta
 trono
 trucco di magia
 tsunami
+tucano
 tumore
 tuorlo
 twitter
@@ -1291,3 +1305,6 @@ zorro
 zucca di halloween
 zucchero
 zucchero filato
+fuoco
+Dexter
+bibliotecario
