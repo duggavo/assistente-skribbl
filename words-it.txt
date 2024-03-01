@@ -1,3 +1,4 @@
+Dexter
 Harry Potter
 Intel
 Vietnam
@@ -142,6 +143,7 @@ befana
 betulla
 biancaneve
 bianco
+bibliotecario
 bicchiere
 bicchiere da vino
 bicchierino
@@ -381,6 +383,7 @@ dinamite
 dio
 dipendenza
 diploma
+dispensa
 distanza
 dita dei piedi
 dito
@@ -502,6 +505,7 @@ fulmine
 fumo
 fungo
 fuochi d'artificio
+fuoco
 futuro
 gabbia per uccelli
 gabinetto
@@ -848,6 +852,7 @@ palma
 palmo
 palo
 palpebra
+pan di zenzero
 pancake
 panchina
 pancia
@@ -887,7 +892,6 @@ pecora
 pegaso
 peli del petto
 peloso
-pelosoito
 penna
 pentola
 pepe
@@ -1305,6 +1309,3 @@ zorro
 zucca di halloween
 zucchero
 zucchero filato
-fuoco
-Dexter
-bibliotecario
