@@ -1221,6 +1221,7 @@ trappola
 trappola per orsi
 trappola per topi
 treccia
+tremore
 treno
 treppiedi
 tricheco
