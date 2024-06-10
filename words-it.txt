@@ -71,6 +71,7 @@ arachide
 arancia
 arbitro
 arbusto
+arcobaleno
 argentina
 aria
 armadietto
@@ -227,6 +228,7 @@ capo
 cappello a cilindro
 cappuccino
 capra
+carcere
 caricabatteria
 carnivoro
 carota
@@ -341,6 +343,7 @@ corpo
 corsia
 corvo
 cotone
+cowboy
 cratere
 cravatta
 creeper
@@ -947,6 +950,7 @@ polvere da sparo
 pomello
 pompiere
 ponte
+popcorn
 porcellino d'india
 porcile
 porcospino
@@ -1172,6 +1176,7 @@ tappeto
 tappeto rosso
 tasca
 taser
+tasse
 tassista
 tastierino
 tatuaggio
@@ -1192,6 +1197,7 @@ teppista
 terminator
 terra
 terrario
+tesoro
 test
 testa
 tetris
