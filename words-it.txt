@@ -1,7 +1,3 @@
-Dexter
-Harry Potter
-Intel
-Vietnam
 abaco
 abbaiare
 abito
@@ -15,6 +11,7 @@ aceto
 acne
 acquario
 acrobata
+addizione
 addominali
 adidas
 adottare
@@ -353,14 +350,17 @@ croce
 cronometro
 crostata
 crostata di mele
+cubo
 cubo di rubik
 cucchiaio
 cucina
+cucinare
 cuculo
 cuffie
 culla
 cuoco
 cuore
+cuscino
 dab
 danimarca
 darwin watterson
@@ -376,6 +376,7 @@ dentista
 dentro
 desiderio
 detergente
+dexter
 diagonale
 diamante
 diapason
@@ -426,6 +427,7 @@ erbivoro
 esagono
 esploratore
 esplosione
+espresso
 estate
 etichetta
 euro
@@ -481,6 +483,7 @@ focaccia
 foglio
 folletto
 fontana
+football
 forbici
 forchetta
 foresta
@@ -593,6 +596,7 @@ hacker
 halo
 hamburger
 happy meal
+harry potter
 hashtag
 hip hop
 hot dog
@@ -618,6 +622,7 @@ inghilterra
 inquinamento
 insalata
 insetto
+intel
 interruttore
 intervista
 intrecciato
@@ -633,6 +638,7 @@ italia
 james bond
 jeep
 jenga
+jet pack
 john cena
 johnny bravo
 katana
@@ -808,6 +814,7 @@ noce
 noce di cocco
 nodo
 nonna
+noodle
 norvegia
 nota musicale
 notre dame
@@ -824,6 +831,7 @@ oliva
 ombra
 onda
 opera
+opera lirica
 orchestra
 orchidea
 orco
@@ -849,6 +857,7 @@ pakistan
 palazzo
 paletta
 palla demolitrice
+palla di neve
 palle di neve
 palloncino
 palma
@@ -897,6 +906,7 @@ peli del petto
 peloso
 penna
 pentola
+pentola d'oro
 pepe
 peppa pig
 pepsi
@@ -972,6 +982,7 @@ prezzemolo
 prigione
 prigioniero
 principessa
+prisma
 professore
 profumo
 proiettore
@@ -1046,6 +1057,7 @@ saldi
 salice
 saliva
 salmone
+saltare la corda
 saltello
 salute
 salvadanaio
@@ -1092,7 +1104,9 @@ semicerchio
 seminterrato
 senzatetto
 serbia
+serpente
 serratura
+sete
 sfera di cristallo
 shampoo
 shopping
@@ -1146,6 +1160,7 @@ starnuto
 statua della libertà
 stella
 stella cadente
+stella marina
 stendibiancheria
 stickman
 stonehenge
@@ -1235,6 +1250,7 @@ triciclo
 trincea
 trio
 triste
+tristo mietitore
 trofeo
 troll
 tromba d'aria
@@ -1281,6 +1297,7 @@ verme
 vestito
 vetro
 viaggiatore
+vietnam
 viola
 violenza
 virus

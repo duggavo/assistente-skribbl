@@ -6,7 +6,7 @@ let w = [];
 
 for (const e of words) {
 	if (!w.includes(e) && e !== "") {
-		w.push(e)
+		w.push(e.toLowerCase())
 	}
 }
 
