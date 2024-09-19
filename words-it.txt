@@ -153,6 +153,7 @@ bill gates
 binario
 bingo
 binocolo
+bistecca
 bitcoin
 blatta
 blocco notes
@@ -675,6 +676,7 @@ lento
 leonardo da vinci
 leone
 letto
+levitazione
 libellula
 libro
 lime
@@ -844,6 +846,7 @@ orsacchiotto
 orsetto gommoso
 orso
 orso polare
+orto
 osservatorio
 ovale
 pac-man
@@ -872,6 +875,7 @@ panda
 panda rosso
 panino
 panna
+pantaloncini
 pantaloni
 pantera
 pantofole
@@ -896,6 +900,7 @@ pasticcino
 pasto
 patatine
 patente
+patrick
 patriota
 pausa
 pavimento
@@ -1023,6 +1028,7 @@ recitazione
 regalo
 regina
 registrare
+regno unito
 religione
 relitto
 renna
@@ -1103,6 +1109,7 @@ seme di mela
 semicerchio
 seminterrato
 senzatetto
+sera
 serbia
 serpente
 serratura
@@ -1170,6 +1177,7 @@ stregone
 stretta di mano
 studio
 stuzzicadenti
+sudore
 sughero
 suora
 supermercato
@@ -1225,6 +1233,7 @@ titanic
 toast
 tofu
 toga
+tombino
 topolino
 torcia
 tornado
