@@ -18,6 +18,7 @@ adottare
 aereo di carta
 aereoplano
 affitto
+affogare
 afoso
 agente
 ago
@@ -61,6 +62,7 @@ anubis
 anulare
 anziano
 ape
+appendiabiti
 applauso
 apple
 apriscatole
@@ -145,6 +147,7 @@ bibliotecario
 bicchiere
 bicchiere da vino
 bicchierino
+bicicletta
 bidone
 big ben
 bilancia
@@ -233,7 +236,9 @@ carota
 carpentiere
 carrello
 carriola
+carro armato
 carro attrezzi
+carrozza
 carta
 carta igienica
 casa
@@ -363,6 +368,7 @@ cuoco
 cuore
 cuscino
 dab
+dama
 danimarca
 darwin watterson
 decaffeinato
@@ -442,6 +448,7 @@ fango
 fanta
 fantasma
 fantasticare
+fare la coda
 farfalla
 fascia
 fata
@@ -487,6 +494,7 @@ fontana
 football
 forbici
 forchetta
+forcone
 foresta
 formaggio
 formicaio
@@ -586,6 +594,7 @@ gruccia
 guancia
 guanto
 guanto da forno
+guardare
 guasto
 gucci
 guerriero
@@ -604,6 +613,7 @@ hot dog
 hulk
 iceberg
 idea
+idrante
 ikea
 il paese delle meraviglie
 imitare
@@ -619,6 +629,7 @@ indonesia
 infermiera
 infinito
 infradito
+ingegnere
 inghilterra
 inquinamento
 insalata
@@ -679,6 +690,7 @@ letto
 levitazione
 libellula
 libro
+limbo
 lime
 limonata
 lince
@@ -725,6 +737,7 @@ maniglia
 mano
 mantide
 manzo
+maratona
 mare
 margherita
 mario
@@ -783,6 +796,7 @@ monster
 monte everest
 monte fuji
 morso
+morte
 mosca
 mostarda
 motore
@@ -791,6 +805,7 @@ mozart
 mtv
 muffin
 mummia
+munizioni
 muraglia cinese
 muro
 muro di berlino
@@ -805,6 +820,7 @@ nastro trasportatore
 natale
 nave
 negozio
+negozio di animali
 neo
 nero
 neve
@@ -820,6 +836,7 @@ noodle
 norvegia
 nota musicale
 notre dame
+nutella
 oasi
 obbiettivo
 obelix
@@ -898,6 +915,7 @@ pasta sfoglia
 pastello
 pasticcino
 pasto
+patata
 patatine
 patente
 patrick
@@ -932,6 +950,7 @@ piccione
 piccolo
 piccone
 piede
+piede di porco
 piercing al naso
 pigna
 pikachu
@@ -991,6 +1010,7 @@ prisma
 professore
 profumo
 proiettore
+promozione
 prosciutto
 protesta
 pterodattilo
@@ -1000,6 +1020,7 @@ pulcino
 puma
 punizione
 punta
+punteggio massimo
 pupazzo di neve
 puro
 puzza
@@ -1077,6 +1098,7 @@ sbattere
 scala
 scarabocchio
 scaricare
+scarpa
 scassinatore
 scatola di fiammiferi
 scavo
@@ -1094,6 +1116,7 @@ scivolo
 scogliera
 scopa
 scorpione
+scorrere
 scottex
 scozia
 scrittore
@@ -1132,6 +1155,7 @@ smalto
 smoking
 soffitta
 soldato
+soldi
 sole
 sombrero
 sottomarino
@@ -1170,6 +1194,7 @@ stella cadente
 stella marina
 stendibiancheria
 stickman
+stivali
 stonehenge
 stop
 strada
@@ -1185,6 +1210,7 @@ surf
 sushi
 sussurro
 svapare
+svegliarsi
 sventolare
 svezia
 tacchi alti
@@ -1193,6 +1219,7 @@ taglialegna
 taglio
 tails
 talpa
+tamburo
 tana
 tappetino
 tappeto
@@ -1235,12 +1262,14 @@ tofu
 toga
 tombino
 topolino
+toporagno
 torcia
 tornado
 toro
 torre
 torre di pisa
 torre eiffel
+tostapane
 totem
 traduzione
 traffico
