@@ -473,6 +473,7 @@ figlia
 figlio
 film
 filo
+filo spinato
 filosofo
 filtro
 fine
@@ -933,6 +934,7 @@ pentola d'oro
 pepe
 peppa pig
 pepsi
+periscopio
 pescatore
 pesce
 pesce pagliaccio
@@ -1000,6 +1002,7 @@ pozzo
 pozzo dei desideri
 prateria
 presa
+presidente
 prete
 pretzel
 prezzemolo
